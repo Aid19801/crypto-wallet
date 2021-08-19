@@ -1,0 +1,29 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false,
+    "workbench.colorTheme": "Abyss",
+    "[typescript]": {
+      "editor.formatOnSave": true
+    },
+    "[javascript]": {
+      "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+      "editor.formatOnSave": true
+    },
+    "[html]": {
+      "editor.formatOnSave": true
+    },
+    "[css]": {
+      "editor.formatOnSave": true
+    },
+    "workbench.colorCustomizations": {
+      "titleBar.activeForeground": "#000",
+      "titleBar.inactiveForeground": "#000000CC",
+      "titleBar.activeBackground": "#32CD32",
+      "titleBar.inactiveBackground": "#32CD32",
+      "statusBar.background": "#d200ee"
+    }
+  }
